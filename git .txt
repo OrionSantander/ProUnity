@@ -1,0 +1,24 @@
+clonar el depisitorio
+
+
+
+Entrar a la carpeta 
+
+C:\Users\Home>    //poner cd "ubicacion de la carpeta"
+
+C:\Users\Home\Desktop>     // repetir si es necesario
+
+C:\Users\Home\Desktop\IAAI>   //buscar los datos y/o carpeta
+
+C:\Users\Home\Desktop\IAA\ProUnity>   //ya dentro puedes hacer cambios
+
+cambios desde terminal 
+
+
+git add -A        //CONECTARESE A LA TERMINAL
+
+git pull          //DESCARGAR POR SI ALGUIN HIZO CAMBIOS Y NO TE LO HA DESCARGADO
+
+git commit -m "ALGUN COMENTARIO DE SUBIDA"    //PODER AGREGAR algo (antes debiste hacer un cambio en la carpeta)
+
+git push          //PARA SUBIR EL CAMBIO
